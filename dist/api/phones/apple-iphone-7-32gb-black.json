@@ -1,0 +1,24 @@
+{
+    "id": "apple-iphone-7-32gb-black",
+	"name": "Apple iPhone 7 32GB Black",
+	"capacityAvailable": ["32GB"],
+	"capacity": "32GB",
+	"pricesRegular": [400],
+	"pricesDiscount": [375],
+	"colorsAvailable": ["black", "rosegold", "gold", "silver"],
+	"color": "black",
+	"images": [
+		"img/phones/apple-iphone-7/black/00.jpg",
+		"img/phones/apple-iphone-7/black/01.jpg",
+		"img/phones/apple-iphone-7/black/02.jpg",
+		"img/phones/apple-iphone-7/black/03.jpg",
+		"img/phones/apple-iphone-7/black/04.jpg"
+	],
+	"screen": "4.7' IPS",
+	"resolution": "1334x750",
+	"processor": "Apple A10",
+	"ram": "2GB",
+	"camera": "12 Mp + 7 Mp",
+	"zoom": "Digital, 5x",
+	"cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+}

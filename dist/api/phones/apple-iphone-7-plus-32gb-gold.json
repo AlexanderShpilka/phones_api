@@ -1,0 +1,24 @@
+{
+    "id": "apple-iphone-7-plus-32gb-gold",
+	"name": "Apple iPhone 7 Plus 32GB Gold",
+	"capacityAvailable": ["32GB"],
+	"capacity": "32GB",
+	"pricesRegular": [540],
+	"pricesDiscount": [500],
+	"colorsAvailable": ["black", "rosegold", "gold", "silver"],
+	"color": "gold",
+	"images": [
+		"img/phones/apple-iphone-7-plus/gold/00.jpg",
+		"img/phones/apple-iphone-7-plus/gold/01.jpg",
+		"img/phones/apple-iphone-7-plus/gold/02.jpg",
+		"img/phones/apple-iphone-7-plus/gold/03.jpg",
+		"img/phones/apple-iphone-7-plus/gold/04.jpg"
+	],
+	"screen": "5.5' IPS",
+	"resolution": "1920x1080",
+	"processor": "Apple A10",
+	"ram": "3GB",
+	"camera": "12 Mp + 7 Mp",
+	"zoom": "Digital, 10x / Optical, 2x",
+	"cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+}
