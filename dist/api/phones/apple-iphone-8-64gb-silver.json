@@ -1,0 +1,23 @@
+{
+    "id": "apple-iphone-8-64gb-silver",
+	"name": "Apple iPhone 8 64GB Silver",
+	"capacityAvailable": ["64GB"],
+	"capacity": "64GB",
+	"pricesRegular": [600],
+	"pricesDiscount": [550],
+	"colorsAvailable": ["spacegray", "gold", "silver"],
+	"color": "silver",
+	"images": [
+		"img/phones/apple-iphone-8/silver/00.jpg",
+		"img/phones/apple-iphone-8/silver/01.jpg",
+		"img/phones/apple-iphone-8/silver/02.jpg",
+		"img/phones/apple-iphone-8/silver/03.jpg"
+	],
+	"screen": "4.7' IPS",
+	"resolution": "1334x750",
+	"processor": "Apple A11 Bionic",
+	"ram": "2GB",
+	"camera": "12 Mp + 7 Mp",
+	"zoom": "Digital, 5x",
+	"cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+}
