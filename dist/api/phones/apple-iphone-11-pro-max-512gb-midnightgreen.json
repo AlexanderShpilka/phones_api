@@ -1,0 +1,22 @@
+{
+    "id": "apple-iphone-11-pro-max-512gb-midnightgreen",
+	"name": "Apple iPhone 11 Pro Max 512GB Midnightgreen",
+	"capacityAvailable": ["64GB", "256GB", "512GB"],
+	"capacity": "512GB",
+	"pricesRegular": [2020],
+	"pricesDiscount": [1930],
+	"colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
+	"color": "midnightgreen",
+	"images": [
+		"img/phones/apple-iphone-11-pro-max/midnightgreen/00.jpg",
+		"img/phones/apple-iphone-11-pro-max/midnightgreen/01.jpg",
+		"img/phones/apple-iphone-11-pro-max/midnightgreen/02.jpg"
+	],
+	"screen": "6.5' OLED",
+	"resolution": "2688х1242",
+	"processor": "Apple A13 Bionic",
+	"ram": "4GB",
+	"camera": "12 Mp + 12 Mp + 12MP",
+	"zoom": "Digital, 10x / Optical, 2x",
+	"cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"]
+}
