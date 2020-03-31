@@ -3,8 +3,8 @@
 	"name": "Apple iPhone 11 64GB Black",
 	"capacityAvailable": ["64GB", "128GB", "256GB"],
 	"capacity": "64GB",
-	"pricesRegular": [932],
-	"pricesDiscount": [880],
+	"priceRegular": 932,
+	"priceDiscount": 880,
 	"colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
 	"color": "black",
 	"images": [

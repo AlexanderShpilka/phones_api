@@ -3,8 +3,8 @@
 	"name": "Apple iPhone 11 Pro Max 64GB Midnightgreen",
 	"capacityAvailable": ["64GB", "256GB", "512GB"],
 	"capacity": "64GB",
-	"pricesRegular": [1480],
-	"pricesDiscount": [1400],
+	"priceRegular": 1480,
+	"priceDiscount": 1400,
 	"colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
 	"color": "midnightgreen",
 	"images": [

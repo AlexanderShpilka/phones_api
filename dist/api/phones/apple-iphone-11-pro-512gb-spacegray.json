@@ -3,8 +3,8 @@
 	"name": "Apple iPhone 11 Pro 512GB Spacegray",
 	"capacityAvailable": ["64GB", "256GB", "512GB"],
 	"capacity": "512GB",
-	"pricesRegular": [1880],
-	"pricesDiscount": [1780],
+	"priceRegular": 1880,
+	"priceDiscount": 1780,
 	"colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
 	"color": "spacegray",
 	"images": [

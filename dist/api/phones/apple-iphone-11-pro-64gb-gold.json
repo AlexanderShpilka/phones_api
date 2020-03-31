@@ -3,8 +3,8 @@
 	"name": "Apple iPhone 11 Pro 64GB Gold",
 	"capacityAvailable": ["64GB", "256GB", "512GB"],
 	"capacity": "64GB",
-	"pricesRegular": [1312],
-	"pricesDiscount": [1270],
+	"priceRegular": 1312,
+	"priceDiscount": 1270,
 	"colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
 	"color": "gold",
 	"images": [

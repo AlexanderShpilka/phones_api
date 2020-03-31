@@ -3,8 +3,8 @@
 	"name": "Apple iPhone 7 Plus 32GB Black",
 	"capacityAvailable": ["32GB"],
 	"capacity": "32GB",
-	"pricesRegular": [540],
-	"pricesDiscount": [500],
+	"priceRegular": 540,
+	"priceDiscount": 500,
 	"colorsAvailable": ["black", "rosegold", "gold", "silver"],
 	"color": "black",
 	"images": [

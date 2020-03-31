@@ -3,8 +3,8 @@
 	"name": "Apple iPhone XS 256GB Gold",
 	"capacityAvailable": ["64GB", "256GB"],
 	"capacity": "256GB",
-	"pricesRegular": [960],
-	"pricesDiscount": [900],
+	"priceRegular": 960,
+	"priceDiscount": 900,
 	"colorsAvailable": ["spacegray", "gold"],
 	"color": "gold",
 	"images": [
