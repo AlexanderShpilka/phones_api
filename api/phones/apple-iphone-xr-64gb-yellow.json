@@ -3,8 +3,8 @@
 	"name": "Apple iPhone XR 64GB Yellow",
 	"capacityAvailable": ["64GB", "128GB"],
 	"capacity": "64GB",
-	"pricesRegular": [712],
-	"pricesDiscount": [670],
+	"priceRegular": 712,
+	"priceDiscount": 670,
 	"colorsAvailable": ["white", "yellow", "red", "coral"],
 	"color": "yellow",
 	"images": [

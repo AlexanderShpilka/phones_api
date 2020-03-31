@@ -3,8 +3,8 @@
 	"name": "Apple iPhone 11 Pro Max 256GB Gold",
 	"capacityAvailable": ["64GB", "256GB", "512GB"],
 	"capacity": "256GB",
-	"pricesRegular": [1776],
-	"pricesDiscount": [1680],
+	"priceRegular": 1776,
+	"priceDiscount": 1680,
 	"colorsAvailable": ["spacegray", "midnightgreen", "gold", "silver"],
 	"color": "gold",
 	"images": [

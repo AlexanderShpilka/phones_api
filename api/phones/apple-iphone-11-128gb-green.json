@@ -3,8 +3,8 @@
 	"name": "Apple iPhone 11 128GB Green",
 	"capacityAvailable": ["64GB", "128GB", "256GB"],
 	"capacity": "128GB",
-	"pricesRegular": [1100],
-	"pricesDiscount": [1050],
+	"priceRegular": 1100,
+	"priceDiscount": 1050,
 	"colorsAvailable": ["black", "green", "yellow", "white", "purple", "red"],
 	"color": "green",
 	"images": [

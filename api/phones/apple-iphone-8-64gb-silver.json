@@ -3,8 +3,8 @@
 	"name": "Apple iPhone 8 64GB Silver",
 	"capacityAvailable": ["64GB"],
 	"capacity": "64GB",
-	"pricesRegular": [600],
-	"pricesDiscount": [550],
+	"priceRegular": 600,
+	"priceDiscount": 550,
 	"colorsAvailable": ["spacegray", "gold", "silver"],
 	"color": "silver",
 	"images": [

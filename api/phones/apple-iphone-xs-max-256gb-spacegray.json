@@ -3,8 +3,8 @@
 	"name": "Apple iPhone XS Max 256GB Spacegray",
 	"capacityAvailable": ["64GB", "256GB"],
 	"capacity": "256GB",
-	"pricesRegular": [1080],
-	"pricesDiscount": [1000],
+	"priceRegular": 1080,
+	"priceDiscount": 1000,
 	"colorsAvailable": ["spacegray", "gold", "silver"],
 	"color": "spacegray",
 	"images": [
