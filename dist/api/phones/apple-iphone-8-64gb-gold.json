@@ -1,5 +1,6 @@
 {
     "id": "apple-iphone-8-64gb-gold",
+	"namespaceId": "apple-iphone-8",
 	"name": "Apple iPhone 8 64GB Gold",
 	"capacityAvailable": ["64GB"],
 	"capacity": "64GB",
